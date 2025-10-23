@@ -1,3 +1,7 @@
 v1.0 Proyecto base
 Funcionalidad login
+<<<<<<< HEAD
 muiy
+=======
+Version 1.0 lista
+>>>>>>> master
